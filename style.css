@@ -1,0 +1,15 @@
+button {
+  font-size:26px;
+  padding: 26px;
+  color:white;
+  border-radius:900px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  background-color: #4CAF50; /* Green */
+}
+h1{
+    padding:30px;
+    color: lightblue;
+    font-size:60px;
+    position:center;
+    
+}
